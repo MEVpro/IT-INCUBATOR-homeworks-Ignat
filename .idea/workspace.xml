@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3acaad44-fd99-4d47-a2f6-72081db0e0a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/p1-main/m1-ui/u1-app/App.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p1-main/m1-ui/u1-app/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p1-main/m1-ui/u1-app/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h1/AlternativeMessage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h1/HW1.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h1/Message.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h1/Message.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h1/tests/Message.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h10/HW10.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h10/bll/loadingReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h10/bll/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h11/HW11.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h11/common/c7-SuperRange/SuperRange.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h11/common/c7-SuperRange/SuperRange.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h11/common/c8-SuperDoubleRange/SuperDoubleRange.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h12/HW12.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h12/HW12.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h12/bll/themeReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h2/Affair.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h2/Affairs.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h2/Affairs.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h2/AlternativeAffairs.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h2/HW2.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h2/tests/deleteAffair.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h2/tests/filterAffairs.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h3/AlternativeGreeting.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h3/Greeting.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h3/Greeting.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h3/GreetingContainer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h3/HW3.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/HW4.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/HW4.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c1-SuperInputText/AlternativeSuperInputText.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c1-SuperInputText/SuperInputText.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c1-SuperInputText/SuperInputText.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c2-SuperButton/AlternativeSuperButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c2-SuperButton/SuperButton.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c2-SuperButton/SuperButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c3-SuperCheckbox/AlternativeSuperCheckbox.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c3-SuperCheckbox/SuperCheckbox.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c3-SuperCheckbox/SuperCheckbox.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/HW5.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/Pages.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/pages/Error404.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/pages/PreJunior.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/HW5.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/Routes.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/Error404.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/PreJunior.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h6/HW6.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h6/common/c4-SuperEditableSpan/AlternativeSuperEditableSpan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h6/common/c4-SuperEditableSpan/SuperEditableSpan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h6/localStorage/localStorage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h7/HW7.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h7/common/c5-SuperSelect/AlternativeSuperSelect.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h7/common/c5-SuperSelect/SuperSelect.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h7/common/c6-SuperRadio/AlternativeSuperRadio.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h7/common/c6-SuperRadio/SuperRadio.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h8/HW8.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h8/bll/homeWorkReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h8/bll/tests/homeWorkReducer.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h9/AlternativeClock.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h9/Clock.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h9/HW9.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2AHfddIMnDwfqraAsghnBYIRSZR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3acaad44-fd99-4d47-a2f6-72081db0e0a1" name="Changes" comment="" />
+      <created>1654671523079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654671523079</updated>
+      <workItem from="1654671524439" duration="1144000" />
+      <workItem from="1654672713318" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
